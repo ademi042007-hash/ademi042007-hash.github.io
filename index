@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About Me | Ademi</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header class="hero">
+        <h1>Hi, I'm Ademi Adewoyin BU23CSC1170 👋</h1>
+        <p>Creative Thinker • Developer • Culture Enthusiast</p>
+    </header>
+
+    <section class="about">
+        <h2>About Me</h2>
+        <p>
+            I'm passionate about technology, creativity, and building things that matter.
+            I enjoy learning new skills, exploring culture, and turning ideas into reality.
+        </p>
+    </section>
+
+    <section class="skills">
+        <h2>What I Do</h2>
+        <ul>
+            <li>Web Development</li>
+            <li>Creative Branding</li>
+            <li>Problem Solving</li>
+            <li>Tech & Culture</li>
+        </ul>
+    </section>
+
+    <section class="contact">
+        <h2>Connect With Me</h2>
+        <p>Email: <a href="mailto:ademi042007@gmail.com">ademi@042007@gmail.com</a></p>
+        <p>GitHub: <a href="https://github.com/yourusername" target="_blank">github.com/yourusername</a></p>
+    </section>
+
+    <footer>
+        <p>© 2025 Ademi. All rights reserved.</p>
+    </footer>
+
+</body>
+</html>
